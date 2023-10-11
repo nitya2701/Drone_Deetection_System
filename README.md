@@ -1,8 +1,13 @@
 # Drone_Detection_System
 YOLOv5
-YOLOv5 is a model in the You Only Look Once (YOLO) family of computer vision models. YOLOv5 is commonly used for detecting objects. YOLOv5 comes in four main versions: small (s), medium (m), large (l), and extra large (x), each offering progressively higher accuracy rates. Each variant also takes a different amount of time to train
+YOLOv5 is a model in the You Only Look Once (YOLO) family of computer vision models. YOLOv5 is commonly used for detecting objects. YOLOv5 comes in four main versions: small (s), medium (m), large (l), and extra large (x), each offering progressively higher accuracy rates. Each variant also takes a different amount of time to train.
+
+
 ![image](https://github.com/nitya2701/Drone_Detection_System/assets/80637539/2f698a8a-7721-4a9f-82f3-a085616e04cf)
+
+
 YOLOv5 derives most of its performance improvement from PyTorch training procedures, while the model architecture remains close to YOLOv4.
+
 
 The rapidly increasing number of drones in the national airspace, including those for recreational and commercial applications, has raised concerns regarding misuse.
 Autonomous drone detection systems offer a probable solution to overcoming the issue of potential drone misuse, such as drug smuggling, violating people’s privacy, etc. 
